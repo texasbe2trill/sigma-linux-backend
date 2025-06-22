@@ -6,7 +6,7 @@ A lightweight, standalone implementation for Sigma rule evaluation when the full
 
 ## Features
 
-- **Zero Dependencies**: Uses only Python standard library
+- **Two Dependencies**: Uses only Python standard library and psutil & pyYAML
 - **Configurable Restrictiveness**: Four levels from permissive to ultra-restrictive
 - **MITRE ATT&CK Integration**: Automatic extraction of tactics and techniques
 - **Real Sigma Rules**: Support for loading actual Sigma rule files
